@@ -1,0 +1,20 @@
+  .greyContent {
+    margin-top: -555px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 100px;
+  }
+  
+  .greyText{
+    display: flex;
+    flex-direction: column;
+    color: black;
+    text-align: center;
+  }
+  
+  
+  .greyImage > img{
+    height: 100px;
+    width: 100px;
+  }
