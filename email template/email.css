@@ -13,7 +13,11 @@
     text-align: center;
   }
   
-  
+  .greyImage > img{
+    height: 100px;
+    width: 100px;
+  }
+
   .greyImage > img{
     height: 100px;
     width: 100px;
